@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ing.cg9@gmail.com
+	name = isabel garcia
